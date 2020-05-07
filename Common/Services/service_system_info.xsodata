@@ -1,0 +1,6 @@
+service {
+
+    "_SYS_BIC"."Applications.Common.CalcViews/CVD_SYSTEM_INFO" as "SystemInfoData"
+    key("ID");
+
+}

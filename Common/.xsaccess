@@ -1,0 +1,7 @@
+{
+    "exposed": true,
+    "authentication": [{
+        "method": "Form"
+    }],
+    "cache_control": "no-cache, no-store"
+}
